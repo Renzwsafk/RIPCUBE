@@ -1,3 +1,6 @@
-# Lightcube
+# RIPCUBE
 
-Lightcube is a computer program for creating 3D games
+RIPCUBE is still work in progress. Source code will be released soon.
+
+RIPCUBE is a low-level minimal game engine that gives users more control over the game engine.
+
